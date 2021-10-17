@@ -1,0 +1,70 @@
+{
+  "fds": [
+    {
+      "firstname": "Viraj",
+      "lastname": "Nirbhavane",
+      "bankname": "Indian Bank",
+      "receiptno": "12345678",
+      "amount": "1000",
+      "interestrate": 4,
+      "period": 2,
+      "expirydate": "23/02/2022",
+      "id": 1
+    },
+    {
+      "firstname": "Akshay",
+      "lastname": "Narkar",
+      "bankname": "HDFC",
+      "receiptno": "49956845",
+      "amount": "1000",
+      "interestrate": 4,
+      "period": 2,
+      "expirydate": "23/02/2022",
+      "id": 2
+    },
+    {
+      "firstname": "Stephen",
+      "lastname": "Balakova",
+      "bankname": "Bank of America",
+      "receiptno": "85468712",
+      "amount": "1000",
+      "interestrate": 4,
+      "period": 2,
+      "expirydate": "23/02/2022",
+      "id": 3
+    },
+    {
+      "firstname": "dekomori",
+      "lastname": "des",
+      "bankname": "Japnese Bank",
+      "receiptno": "789",
+      "amount": "578",
+      "period": "5",
+      "interestrate": "5",
+      "expirydate": "2021-08-15",
+      "id": 5
+    },
+    {
+      "firstname": "Funta",
+      "lastname": "hunta",
+      "bankname": "gunta",
+      "receiptno": "789",
+      "amount": "88",
+      "period": "587",
+      "interestrate": "78",
+      "expirydate": "2021-12-31",
+      "id": 6
+    },
+    {
+      "firstname": "naruto",
+      "lastname": "uzumaki",
+      "bankname": "konoha",
+      "receiptno": "7",
+      "amount": "1000",
+      "period": "3",
+      "interestrate": "7",
+      "expirydate": "2022-01-01",
+      "id": 7
+    }
+  ]
+}
